@@ -1,2 +1,1 @@
-# .github
-quickplates
+Nothing to see here
